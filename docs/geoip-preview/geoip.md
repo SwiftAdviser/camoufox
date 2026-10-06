@@ -22,7 +22,7 @@ pip install -U "camoufox[geoip]"
 
 ## Usage
 
-Pass in `geoip=True` with Playwright's `proxy` parameter. For example, with [NodeMaven](https://go.nodemaven.com/camoufoxtoolsept), [Node Proxy](https://node-proxy.com), or [ProxyLane](https://proxylane.dev) proxies:
+Pass in `geoip=True` with Playwright's `proxy` parameter. For example, with [NodeMaven](https://go.nodemaven.com/camoufoxtoolsept), [Node Proxy](https://node-proxy.com), or [ProxyLane](https://proxylane.dev/?utm_source=camoufox&utm_medium=referral&utm_campaign=geoip_docs&utm_content=usage_example) proxies:
 
 +++ NodeMaven
 
@@ -128,21 +128,21 @@ Use the promo code `CAMOUFOX` at checkout.
 
 === :icon-shield-check: **Check out ProxyLane**
 
-<a href="https://proxylane.dev" target="_blank">
+<a href="https://proxylane.dev/?utm_source=camoufox&utm_medium=referral&utm_campaign=geoip_docs&utm_content=sponsor_banner" target="_blank">
   <img alt="ProxyLane" src="../../static/proxylane.png" style="margin-bottom: 1rem !important; max-width: 25%;"/>
 </a>
 
-[ProxyLane](https://proxylane.dev): Residential proxies for **regional storefront checks, multi-page scraping and AI-agent browsing**.
+[ProxyLane](https://proxylane.dev/?utm_source=camoufox&utm_medium=referral&utm_campaign=geoip_docs&utm_content=sponsor_name): **Camoufox-ready residential proxies** for multi-step browser workflows and AI agents.
 
 **Why ProxyLane?**
 
-- **City targeting and named sticky sessions** for linked pages
+- **City targeting and named sticky sessions**
 - **One-time prepaid traffic never expires** between scheduled runs
 - **350 MB paid trial: $1.95** to test your target
 
-City availability varies. Sticky sessions are not exclusive IP reservations. If the exit IP changes, relaunch Camoufox and verify again.
+Test your real Camoufox workflow for $1.95 before buying a larger traffic pack.
 
-[Camoufox setup guide](https://proxylane.dev/blog/camoufox-proxy).
+[Camoufox setup guide](https://proxylane.dev/blog/camoufox-proxy?utm_source=camoufox&utm_medium=referral&utm_campaign=geoip_docs&utm_content=setup_guide).
 
 Camoufox users get 35% off with `CAMOULANE35`.
 
