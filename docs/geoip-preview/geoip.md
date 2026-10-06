@@ -144,6 +144,10 @@ Test your real Camoufox workflow for $1.95 before buying a larger traffic pack.
 
 [Camoufox setup guide](https://proxylane.dev/blog/camoufox-proxy?utm_source=camoufox&utm_medium=referral&utm_campaign=geoip_docs&utm_content=setup_guide).
 
-Camoufox users get 35% off with `CAMOULANE35`.
+**Special offer**
+
+!!!success 🎁 35% off residential proxies
+Use the promo code `CAMOULANE35` at checkout.
+!!!
 
 ===

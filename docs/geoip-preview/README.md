@@ -10,6 +10,6 @@ python3 -m http.server 8791 --directory docs --bind 127.0.0.1
 
 Visit <http://127.0.0.1:8791/geoip-preview/>. An internet connection is needed for the upstream Retype assets. The modified source for the page's Copy as Markdown action is `geoip.md`. Other documentation navigation links open the official website. Page-view and sponsor-balance tracking scripts are omitted from this review preview.
 
-Only the ProxyLane sponsor body changes. Other sponsors, code examples, card styling, banner dimensions and order are preserved. The existing CAMOULANE35 line is retained from the host page; it does not establish eligibility or compatibility with the separately advertised paid trial.
+Only the ProxyLane sponsor body changes. Other sponsors, code examples, card styling, banner dimensions and order are preserved. The 35% residential offer uses CAMOULANE35 in the same success-callout structure as Node Proxy. The discount is presented separately from the paid trial; no stacking is promised.
 
 ProxyLane links use `utm_source=camoufox`, `utm_medium=referral`, `utm_campaign=geoip_docs` and one of `sponsor_banner`, `sponsor_name`, `usage_example` or `setup_guide` for `utm_content`. These tags identify entry points; they do not establish analytics attribution or purchase conversion. “Camoufox-ready” refers to the documented standard proxy configuration, not a provider-specific built-in SDK.
