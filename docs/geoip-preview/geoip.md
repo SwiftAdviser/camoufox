@@ -137,7 +137,7 @@ Use the promo code `CAMOUFOX` at checkout.
 **Why ProxyLane?**
 
 - **98.7% clean IPs**: rated low risk by Scamalytics in a 1,000-IP sample
-- **City and ZIP targeting** with named sticky sessions up to 72h
+- **195 countries** with city and ZIP targeting, sticky sessions up to 72h
 - **Traffic never expires**: prepaid GB, no monthly plan
 - **No KYC** to start
 - **350 MB trial for $1.95** to test your real target
