@@ -150,4 +150,6 @@ Use the promo code `CAMOUFOX` at checkout.
 Use the promo code `CAMOULANE35` at checkout.
 !!!
 
+Test your real Camoufox workflow for $1.95 before buying a larger traffic pack.
+
 ===
