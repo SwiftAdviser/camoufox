@@ -136,11 +136,11 @@ Use the promo code `CAMOUFOX` at checkout.
 
 **Why ProxyLane?**
 
-- **City targeting and named sticky sessions**
-- **One-time prepaid traffic never expires** between scheduled runs
-- **350 MB paid trial: $1.95** to test your target
-
-Test your real Camoufox workflow for $1.95 before buying a larger traffic pack.
+- **98.7% clean IPs**: rated low risk by Scamalytics in a 1,000-IP sample
+- **City and ZIP targeting** with named sticky sessions up to 72h
+- **Traffic never expires**: prepaid GB, no monthly plan
+- **No KYC** to start
+- **350 MB trial for $1.95** to test your real target
 
 [Camoufox setup guide](https://proxylane.dev/blog/camoufox-proxy?utm_source=camoufox&utm_medium=referral&utm_campaign=geoip_docs&utm_content=setup_guide).
 
