@@ -146,8 +146,10 @@ Use the promo code `CAMOUFOX` at checkout.
 
 **Special offer**
 
-!!!success 🎁 35% off residential proxies
-Use the promo code `CAMOULANE35` at checkout.
+!!!success 🎁 Black Friday: 2x traffic
+`CAMOULANE2X` doubles the GB on any residential pack, until December 1.
+
+`CAMOULANE35` gives 35% off residential proxies.
 !!!
 
 Test your real Camoufox workflow for $1.95 before buying a larger traffic pack.
